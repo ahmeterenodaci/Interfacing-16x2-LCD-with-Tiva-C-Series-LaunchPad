@@ -32,6 +32,4 @@ How to interface 16x2 LCD with Tiva C Series TM4C123G LaunchPad
 
 </br>
 
-## Author
-AHMET EREN ODACI
-  https://github.com/ahmeterenodaci
+
