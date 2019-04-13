@@ -14,6 +14,7 @@ How to interface 16x2 LCD with Tiva C Series TM4C123G LaunchPad
 * 10 KΩ Potentiometer
 * Breadboard
 </br>
+
 ### Pin Connections For LCD.
 
 |LCD Pins|Stellaris Launchpad Pin|
